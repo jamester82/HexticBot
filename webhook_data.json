@@ -1,13 +1,4 @@
 {
   "webhook_url": "https://discord.com/api/webhooks/824029187743547402/TizaENwcGVirNGDawdCBkMNdvEua-b9IDeTUWU5dC25lBTsSV9LEjPNusDiGMgvoirHC",
-  "discord_server": {
-    "type": 1,
-    "id": "824029187743547402",
-    "name": "Hectic Hackerz",
-    "avatar": "4d21a02cc807ec70f21bd0b52bb2fcae",
-    "channel_id": "1073893162541649941",
-    "guild_id": "693680185077268560",
-    "application_id": null,
-    "token": "TizaENwcGVirNGDawdCBkMNdvEua-b9IDeTUWU5dC25lBTsSV9LEjPNusDiGMgvoirHC"
-  }
+ 
 }
