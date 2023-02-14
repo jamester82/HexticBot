@@ -1,1 +1,11 @@
+{
+  "content": "Hello, world!",
+  "embeds": [
+    {
+      "title": "My Bot",
+      "description": "This is a message from my bot.",
+      "color": 16711680
+    }
+  ]
+}
 
